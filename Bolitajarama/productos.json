@@ -1,0 +1,552 @@
+{
+  "LAVACOCHES": [
+    {
+      "codigo": 2820,
+      "descripcion": "Botella x 500 cm3 – caja x 12 u",
+      "precio": 2750,
+      "img": "",
+      "categoria": "LAVACOCHES"
+    },
+    {
+      "codigo": 2840,
+      "descripcion": "Bidón x 5 litros – caja x 4 u",
+      "precio": 11800,
+      "img": "",
+      "categoria": "LAVACOCHES"
+    },
+    {
+      "codigo": 2860,
+      "descripcion": "Bidón x 20 litros",
+      "precio": 45100,
+      "img": "",
+      "categoria": "LAVACOCHES"
+    }
+  ],
+  "LAVACOCHES ESPUMA ACTIVA": [
+    {
+      "codigo": 2720,
+      "descripcion": "Botella x 500 cm3 – caja x 12 u",
+      "precio": 2950,
+      "img": "",
+      "categoria": "LAVACOCHES ESPUMA ACTIVA"
+    },
+    {
+      "codigo": 2740,
+      "descripcion": "Bidón x 5 litros – caja x 4 u",
+      "precio": 16900,
+      "img": "",
+      "categoria": "LAVACOCHES ESPUMA ACTIVA"
+    }
+  ],
+  "LAVACOCHES EN SECO": [
+    {
+      "codigo": 2625,
+      "descripcion": "Botella con gatillo x 500 cm3 – caja x 6 u",
+      "precio": 4000,
+      "img": "",
+      "categoria": "LAVACOCHES EN SECO"
+    }
+  ],
+  "REVITALIZADOR DE GOMAS PARA AUTOS - REVICAUCHO": [
+    {
+      "codigo": 220,
+      "descripcion": "Botella x 500 cm3 – caja x 12 u",
+      "precio": 2950,
+      "img": "",
+      "categoria": "REVITALIZADOR DE GOMAS PARA AUTOS - REVICAUCHO"
+    },
+    {
+      "codigo": 240,
+      "descripcion": "Bidón x 5 litros – caja x 4 u",
+      "precio": 14700,
+      "img": "",
+      "categoria": "REVITALIZADOR DE GOMAS PARA AUTOS - REVICAUCHO"
+    },
+    {
+      "codigo": 260,
+      "descripcion": "Bidón x 20 litros",
+      "precio": 58600,
+      "img": "",
+      "categoria": "REVITALIZADOR DE GOMAS PARA AUTOS - REVICAUCHO"
+    }
+  ],
+  "REVITALIZADOR DE GOMAS PARA AUTOS - REVIGEL": [
+    {
+      "codigo": 221,
+      "descripcion": "Botella x 500 cm3 – caja x 12 u",
+      "precio": 3200,
+      "img": "",
+      "categoria": "REVITALIZADOR DE GOMAS PARA AUTOS - REVIGEL"
+    },
+    {
+      "codigo": 241,
+      "descripcion": "Bidón x 5 litros – caja x 4 u",
+      "precio": 16400,
+      "img": "",
+      "categoria": "REVITALIZADOR DE GOMAS PARA AUTOS - REVIGEL"
+    }
+  ],
+  "LIMPIA PARABRISAS": [
+    {
+      "codigo": 625,
+      "descripcion": "Botella con gatillo x 500 cm3 – caja x 6 u",
+      "precio": 3000,
+      "img": "",
+      "categoria": "LIMPIA PARABRISAS"
+    },
+    {
+      "codigo": 620,
+      "descripcion": "Botella x 500 cm3 – caja x 12 u",
+      "precio": 2400,
+      "img": "",
+      "categoria": "LIMPIA PARABRISAS"
+    },
+    {
+      "codigo": 640,
+      "descripcion": "Bidón x 5 litros – caja x 4 u",
+      "precio": 11600,
+      "img": "",
+      "categoria": "LIMPIA PARABRISAS"
+    },
+    {
+      "codigo": 660,
+      "descripcion": "Bidón x 20 litros",
+      "precio": 39600,
+      "img": "",
+      "categoria": "LIMPIA PARABRISAS"
+    }
+  ],
+  "QUITA INSECTOS": [
+    {
+      "codigo": 1425,
+      "descripcion": "Botella con gatillo x 500 cm3 – caja x 6 u",
+      "precio": 3600,
+      "img": "",
+      "categoria": "QUITA INSECTOS"
+    },
+    {
+      "codigo": 1440,
+      "descripcion": "Bidón x 5 litros – caja x 4 u",
+      "precio": 13650,
+      "img": "",
+      "categoria": "QUITA INSECTOS"
+    }
+  ],
+  "LAVALUSTRE": [
+    {
+      "codigo": 120,
+      "descripcion": "Botella x 500 cm3 – caja x 12 u",
+      "precio": 3400,
+      "img": "",
+      "categoria": "LAVALUSTRE"
+    }
+  ],
+  "CERA LIQUIDA": [
+    {
+      "codigo": 720,
+      "descripcion": "Botella x 500 cm3 – caja x 12 u",
+      "precio": 3700,
+      "img": "",
+      "categoria": "CERA LIQUIDA"
+    }
+  ],
+  "CERA EN CREMA": [
+    {
+      "codigo": 810,
+      "descripcion": "Pote x 200 cm3 – caja x 8 u",
+      "precio": 3600,
+      "img": "",
+      "categoria": "CERA EN CREMA"
+    }
+  ],
+  "CERA POLISH": [
+    {
+      "codigo": 4120,
+      "descripcion": "Botella x 500 cm3 – caja x 12 u",
+      "precio": 4200,
+      "img": "",
+      "categoria": "CERA POLISH"
+    }
+  ],
+  "PULIMENTO EN CREMA PARA AUTOS": [
+    {
+      "codigo": 4210,
+      "descripcion": "Pote x 200 cm3 – caja x 8 u – fina",
+      "precio": 3800,
+      "img": "",
+      "categoria": "PULIMENTO EN CREMA PARA AUTOS"
+    },
+    {
+      "codigo": 4211,
+      "descripcion": "Pote x 200 cm3 – caja x 8 u – gruesa",
+      "precio": 3800,
+      "img": "",
+      "categoria": "PULIMENTO EN CREMA PARA AUTOS"
+    }
+  ],
+  "BRILLO EXTREMO TEFLONADO": [
+    {
+      "codigo": 925,
+      "descripcion": "Botella con gatillo x 500 cm3 – caja x 6 u",
+      "precio": 5100,
+      "img": "",
+      "categoria": "BRILLO EXTREMO TEFLONADO"
+    },
+    {
+      "codigo": 940,
+      "descripcion": "Bidón x 5 litros – caja x 4 u",
+      "precio": 24000,
+      "img": "",
+      "categoria": "BRILLO EXTREMO TEFLONADO"
+    }
+  ],
+  "LIMPIA MOTORES CITRUS": [
+    {
+      "codigo": 2525,
+      "descripcion": "Botella con gatillo x 500 cm3 – caja x 6 u",
+      "precio": 4600,
+      "img": "",
+      "categoria": "LIMPIA MOTORES CITRUS"
+    },
+    {
+      "codigo": 2540,
+      "descripcion": "Bidón x 5 litros – caja x 4 u",
+      "precio": 28000,
+      "img": "",
+      "categoria": "LIMPIA MOTORES CITRUS"
+    }
+  ],
+  "LIMPIA TAPIZADOS": [
+    {
+      "codigo": 525,
+      "descripcion": "Botella con gatillo x 500 cm3 – caja x 6 u",
+      "precio": 3300,
+      "img": "",
+      "categoria": "LIMPIA TAPIZADOS"
+    },
+    {
+      "codigo": 540,
+      "descripcion": "Bidón x 5 litros – caja x 4 u",
+      "precio": 10200,
+      "img": "",
+      "categoria": "LIMPIA TAPIZADOS"
+    }
+  ],
+  "SILICONA MULTIUSO": [
+    {
+      "codigo": 3421,
+      "descripcion": "Aerosol x 440 cm3 (260 gr)– caja x 12 u – aroma Cherry",
+      "precio": 3500,
+      "img": "",
+      "categoria": "SILICONA MULTIUSO"
+    },
+    {
+      "codigo": 3422,
+      "descripcion": "Aerosol x 440 cm3 (260 gr)– caja x 12 u – aroma vainilla",
+      "precio": 3500,
+      "img": "",
+      "categoria": "SILICONA MULTIUSO"
+    },
+    {
+      "codigo": 3423,
+      "descripcion": "Aerosol x 440 cm3 (260 gr)– caja x 12 u – aroma sunshine",
+      "precio": 3500,
+      "img": "",
+      "categoria": "SILICONA MULTIUSO"
+    },
+    {
+      "codigo": 3424,
+      "descripcion": "Aerosol x 440 cm3 (260 gr)– caja x 12 u – aroma ice man",
+      "precio": 3500,
+      "img": "",
+      "categoria": "SILICONA MULTIUSO"
+    },
+    {
+      "codigo": 3426,
+      "descripcion": "Aerosol x 440 cm3 (260 gr)– caja x 12 u – aroma cítrico",
+      "precio": 3500,
+      "img": "",
+      "categoria": "SILICONA MULTIUSO"
+    },
+    {
+      "codigo": 320,
+      "descripcion": "Botella x 125 cm3 – caja x 12 u – fragancias surtidas",
+      "precio": 2000,
+      "img": "",
+      "categoria": "SILICONA MULTIUSO"
+    },
+    {
+      "codigo": 341,
+      "descripcion": "Bidón x 5 litros – aroma cherry – caja x 4 u",
+      "precio": 40000,
+      "img": "",
+      "categoria": "SILICONA MULTIUSO"
+    },
+    {
+      "codigo": 342,
+      "descripcion": "Bidón x 5 litros – aroma vainilla – caja x 4 u",
+      "precio": 40000,
+      "img": "",
+      "categoria": "SILICONA MULTIUSO"
+    }
+  ],
+  "EMULSION DE SILICONAS": [
+    {
+      "codigo": 2425,
+      "descripcion": "Botella con gatillo x 500 cm3 – caja x 6 u",
+      "precio": 5400,
+      "img": "",
+      "categoria": "EMULSION DE SILICONAS"
+    },
+    {
+      "codigo": 2440,
+      "descripcion": "Bidón x 5 litros – caja x 4 u",
+      "precio": 38000,
+      "img": "",
+      "categoria": "EMULSION DE SILICONAS"
+    }
+  ],
+  "LÍNEA DESODORANTES": [
+    {
+      "codigo": 3300,
+      "descripcion": "Botellas x 50 cm3 c/atomizador – aroma wind - caja x 12 u",
+      "precio": 1600,
+      "img": "",
+      "categoria": "LÍNEA DESODORANTES"
+    },
+    {
+      "codigo": 3321,
+      "descripcion": "Botellas x 50 cm3 c/atomizador – aroma dragón - caja x 12 u",
+      "precio": 1600,
+      "img": "",
+      "categoria": "LÍNEA DESODORANTES"
+    },
+    {
+      "codigo": 3322,
+      "descripcion": "Botellas x 50 cm3 c/atomizador – aroma caro - caja x 12 u",
+      "precio": 1600,
+      "img": "",
+      "categoria": "LÍNEA DESODORANTES"
+    },
+    {
+      "codigo": 3323,
+      "descripcion": "Botellas x 50 cm3 c/atomizador – aroma kenn - caja x 12 u",
+      "precio": 1600,
+      "img": "",
+      "categoria": "LÍNEA DESODORANTES"
+    },
+    {
+      "codigo": 3324,
+      "descripcion": "Botellas x 50 cm3 c/atomizador – aroma donna – caja x 12 u",
+      "precio": 1600,
+      "img": "",
+      "categoria": "LÍNEA DESODORANTES"
+    },
+    {
+      "codigo": 3327,
+      "descripcion": "Botellas x 50 cm3 c/atomizador – aroma blue ocean – caja x 12 u",
+      "precio": 1600,
+      "img": "",
+      "categoria": "LÍNEA DESODORANTES"
+    }
+  ],
+  "GEL AROMATIZANTE AMBIENTAL": [
+    {
+      "codigo": 4510,
+      "descripcion": "Lata x 140 gr.– caja exhibidora x 12 u – fragancias surtidas",
+      "precio": 2900,
+      "img": "",
+      "categoria": "GEL AROMATIZANTE AMBIENTAL"
+    },
+    {
+      "codigo": 4512,
+      "descripcion": "Lata x 140 gr.– caja exhibidora x 12 u – aroma marino",
+      "precio": 2900,
+      "img": "",
+      "categoria": "GEL AROMATIZANTE AMBIENTAL"
+    },
+    {
+      "codigo": 4514,
+      "descripcion": "Lata x 140 gr.– caja exhibidora x 12 u – aroma lavanda",
+      "precio": 2900,
+      "img": "",
+      "categoria": "GEL AROMATIZANTE AMBIENTAL"
+    },
+    {
+      "codigo": 4515,
+      "descripcion": "Lata x 140 gr.– caja exhibidora x 12 u – aroma vainilla coco",
+      "precio": 2900,
+      "img": "",
+      "categoria": "GEL AROMATIZANTE AMBIENTAL"
+    },
+    {
+      "codigo": 4516,
+      "descripcion": "Lata x 140 gr.– caja exhibidora x 12 u – aroma cítrico",
+      "precio": 2900,
+      "img": "",
+      "categoria": "GEL AROMATIZANTE AMBIENTAL"
+    }
+  ],
+  "LÍNEA LUBRICANTES": [
+    {
+      "codigo": 2010,
+      "descripcion": "Aerosol x 250 cm3 (165 gr) – caja x 12 u",
+      "precio": 3100,
+      "img": "",
+      "categoria": "ACEITE LUBRICANTE MULTIUSO"
+    },
+    {
+      "codigo": 2110,
+      "descripcion": "Aerosol x 250 cm3 (165 gr) – caja x 12 u",
+      "precio": 3300,
+      "img": "",
+      "categoria": "ACEITE LUBRICANTE MULTIUSO CON DISULFURO DE MOLIBDENO"
+    },
+    {
+      "codigo": 2120,
+      "descripcion": "Aerosol x 440 cm3 (300 gr) – caja x 12 u",
+      "precio": 3900,
+      "img": "",
+      "categoria": "ACEITE LUBRICANTE MULTIUSO CON DISULFURO DE MOLIBDENO"
+    },
+    {
+      "codigo": 2210,
+      "descripcion": "Aerosol x 250 cm3 (165 gr) – caja x 12 u",
+      "precio": 3600,
+      "img": "",
+      "categoria": "ACEITE LUBRICANTE MULTIUSO CON PTFE"
+    },
+    {
+      "codigo": 2220,
+      "descripcion": "Aerosol x 440 cm3 (300 gr) – caja x 12 u",
+      "precio": 4700,
+      "img": "",
+      "categoria": "ACEITE LUBRICANTE MULTIUSO CON PTFE"
+    },
+    {
+      "codigo": 1910,
+      "descripcion": "Aerosol x 250 cm3 (165 gr) – caja x 12 u",
+      "precio": 2700,
+      "img": "",
+      "categoria": "LUBRICANTE PARA ARMAS"
+    }
+  ],
+  "LÍNEA DESENGRASANTES": [
+    {
+      "codigo": 3040,
+      "descripcion": "Bidón x 5 litros – caja x 4 u",
+      "precio": 25000,
+      "img": "",
+      "categoria": "LIMPIADOR MULTIPROPÓSITO pH NEUTRO"
+    },
+    {
+      "codigo": 3725,
+      "descripcion": "Botella con gatillo x 500 cm3 – caja x 6 u",
+      "precio": 3000,
+      "img": "",
+      "categoria": "STRONG – DESENGRASANTE MULTIUSO ALCALINO"
+    },
+    {
+      "codigo": 3740,
+      "descripcion": "Bidón x 5 litros – caja x 4 u",
+      "precio": 19600,
+      "img": "",
+      "categoria": "STRONG – DESENGRASANTE MULTIUSO ALCALINO"
+    },
+    {
+      "codigo": 3760,
+      "descripcion": "Bidón x 20 litros",
+      "precio": 73000,
+      "img": "",
+      "categoria": "STRONG – DESENGRASANTE MULTIUSO ALCALINO"
+    },
+    {
+      "codigo": 2340,
+      "descripcion": "Bidón x 5 litros – caja x 4 u",
+      "precio": 43000,
+      "img": "",
+      "categoria": "LAVA SIN FROTAR – DESENG SERVICIO PESADO ALCALINO"
+    },
+    {
+      "codigo": 2360,
+      "descripcion": "Bidón x 20 litros",
+      "precio": 158000,
+      "img": "",
+      "categoria": "LAVA SIN FROTAR – DESENG SERVICIO PESADO ALCALINO"
+    },
+    {
+      "codigo": 1525,
+      "descripcion": "Pote x 500 gr – caja x 6 u",
+      "precio": 3300,
+      "img": "",
+      "categoria": "CREMA DESENGRASANTE CITRUS"
+    },
+    {
+      "codigo": 1530,
+      "descripcion": "Pote x 1000 gr – caja x 6 u",
+      "precio": 5700,
+      "img": "",
+      "categoria": "CREMA DESENGRASANTE CITRUS"
+    },
+    {
+      "codigo": 1590,
+      "descripcion": "Bidón x 4 litros con bomba dosificadora – caja x 4 u",
+      "precio": 21500,
+      "img": "",
+      "categoria": "CREMA DESENGRASANTE CITRUS"
+    }
+  ],
+  "LÍNEA MANTENIMIENTO": [
+    {
+      "codigo": 3610,
+      "descripcion": "Aerosol x 250 cm3 (165 gr) – caja x 12 u",
+      "precio": 3000,
+      "img": "",
+      "categoria": "AFLOJA TUERCAS"
+    },
+    {
+      "codigo": 3620,
+      "descripcion": "Aerosol x 440 cm3 (300 gr) – caja x 12 u",
+      "precio": 3700,
+      "img": "",
+      "categoria": "AFLOJA TUERCAS"
+    },
+    {
+      "codigo": 3910,
+      "descripcion": "Aerosol x 250 cm3 (165 gr) – caja x 12 u",
+      "precio": 3100,
+      "img": "",
+      "categoria": "GRASA PARA CADENAS DE TRANSMISIÓN CON DISULFURO DE MOLIBDENO"
+    },
+    {
+      "codigo": 3920,
+      "descripcion": "Aerosol x 440 cm3 (300 gr) – caja x 12 u",
+      "precio": 3700,
+      "img": "",
+      "categoria": "GRASA PARA CADENAS DE TRANSMISIÓN CON DISULFURO DE MOLIBDENO"
+    },
+    {
+      "codigo": 1610,
+      "descripcion": "Aerosol x 250 cm3 – caja x 12 u",
+      "precio": 3600,
+      "img": "",
+      "categoria": "LIMPIA CONTACTOS"
+    },
+    {
+      "codigo": 3520,
+      "descripcion": "Aerosol x 440 cm3 (220 gr) – caja x 12 u",
+      "precio": 3200,
+      "img": "",
+      "categoria": "ANTIADHERENTE – DESMOLDANTE"
+    }
+  ],
+  "MATERIAL PUBLICITARIO": [
+    {
+      "codigo": 4601,
+      "descripcion": "Exhibidor para mostrador Jarama 40 cm x 45 cm x 25 cm",
+      "precio": 19000,
+      "img": "",
+      "categoria": "MATERIAL PUBLICITARIO"
+    }
+  ]
+}

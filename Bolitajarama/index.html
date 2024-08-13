@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>E-commerce</title>
+        <link rel="stylesheet" href="styles.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+        <script src="https://cdn.emailjs.com/dist/email.min.js"></script> <!-- Incluir la biblioteca EmailJS -->
+    </head>
+    <body>
+        <!-- Ícono del carrito -->
+        <div id="cart-icon-container" class="d-flex justify-content-end p-3">
+            <i id="cart-icon" class="fas fa-shopping-cart"></i>
+            <span id="cart-count" class="badge badge-pill badge-danger">0</span>
+        </div>
+    
+        <!-- Sección de Login -->
+        <div id="login-container" class="container">
+            <h2>Iniciar Sesión</h2>
+            <input type="text" id="username" class="form-control mb-2" placeholder="Usuario">
+            <input type="password" id="password" class="form-control mb-2" placeholder="Clave">
+            <button id="login-button" class="btn btn-primary btn-block">Ingresar</button>
+        </div>
+    
+        <!-- Sección de Productos -->
+        <div id="products-container" class="container" style="display: none;">
+            <div id="search-bar" class="form-inline my-3">
+                <input type="text" id="search-input" class="form-control mr-2" placeholder="Buscar por nombre o código">
+                <select id="category-select" class="form-control">
+                    <option value="">-- Filtrar por categoría --</option>
+                </select>
+            </div>
+            <div id="product-cards" class="row"></div>
+            <button id="load-more-button" class="btn btn-secondary btn-block my-3">Cargar más</button>
+        </div>
+    
+        <!-- Sección del Carrito -->
+        <div id="cart-container" class="container" style="display: none;">
+            <h2>Carrito</h2>
+            <ul id="cart-list" class="list-group mb-3"></ul>
+            <button id="checkout-button" class="btn btn-success btn-block">Finalizar Pedido</button>
+        </div>
+    
+        <!-- Sección de Finalización -->
+        <div id="checkout-container" class="container" style="display: none;">
+            <h2>Finalizar Pedido</h2>
+            <input type="text" id="client-name" class="form-control mb-2" placeholder="Nombre del cliente">
+            <button id="send-order-button" class="btn btn-primary btn-block">Enviar Pedido</button>
+        </div>
+    
+        <script src="script.js"></script>
+    </body>
+    
+</html>

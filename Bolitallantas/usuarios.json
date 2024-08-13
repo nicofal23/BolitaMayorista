@@ -1,0 +1,21 @@
+{
+    "usuarios": [
+      {
+        "nombreUsuario": "nicolas",
+        "contraseña": "981990"
+      },
+      {
+        "nombreUsuario": "jorge",
+        "contraseña": "bolita11"
+      },
+      {
+        "nombreUsuario": "mab",
+        "contraseña": "mab"
+      }, 
+      {
+        "nombreUsuario":"joel",
+        "contraseña":"joelbolita"
+      }
+    ]
+  }
+  

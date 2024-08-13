@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lista de Llantas</title>
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+  <header>
+    <div>
+        <h1 style="color: white;" class="rotate-bl">Ford Bolita llantas</h1>
+        <div id="imagenseguneleccion" class="rotate-scale-up"></div>
+    </div>
+  </header>
+  <main>
+    <div class="filters">
+      <label for="modeloSelect" style="color: white;">Filtrar por Modelo:</label>
+      <select id="modeloSelect"></select>
+    </div>   
+    
+    <div class="container" id="llantasContainer"></div>
+    <div id="myModal" class="modal" style="display: none;">
+        <span class="close" id="closeModal">&times;</span>
+        <img class="modal-content" id="modalImage">
+      </div>
+      
+  </main>
+  <footer>
+    <p style="color: white;">Bolita repuestos</p>
+  </footer>
+  <script src="../script.js"></script>
+</body>
+</html>
