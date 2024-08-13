@@ -4,21 +4,21 @@
       "codigo": 2820,
       "descripcion": "Botella x 500 cm3 – caja x 12 u",
       "precio": 2750,
-      "img": "",
+      "img": "http://jarama.com.ar/imgs/imgcatalogo/linea_cosmetica/lava_coches/lava_coches_500ml.jpg",
       "categoria": "LAVACOCHES"
     },
     {
       "codigo": 2840,
       "descripcion": "Bidón x 5 litros – caja x 4 u",
       "precio": 11800,
-      "img": "",
+      "img": "http://jarama.com.ar/imgs/imgcatalogo/linea_cosmetica/lava_coches/lava_coches_5l.jpg",
       "categoria": "LAVACOCHES"
     },
     {
       "codigo": 2860,
       "descripcion": "Bidón x 20 litros",
       "precio": 45100,
-      "img": "",
+      "img": "http://jarama.com.ar/imgs/imgcatalogo/linea_cosmetica/lava_coches/shampoo_20l.jpg",
       "categoria": "LAVACOCHES"
     }
   ],
@@ -27,14 +27,14 @@
       "codigo": 2720,
       "descripcion": "Botella x 500 cm3 – caja x 12 u",
       "precio": 2950,
-      "img": "",
+      "img": "http://jarama.com.ar/imgs/imgcatalogo/linea_cosmetica/lava_coches/espuma_activa_500ml.jpg",
       "categoria": "LAVACOCHES ESPUMA ACTIVA"
     },
     {
       "codigo": 2740,
       "descripcion": "Bidón x 5 litros – caja x 4 u",
       "precio": 16900,
-      "img": "",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVbB4_b2rDidJKBgWl67lz_mtL_xDatXWZuA&s",
       "categoria": "LAVACOCHES ESPUMA ACTIVA"
     }
   ],
@@ -43,7 +43,7 @@
       "codigo": 2625,
       "descripcion": "Botella con gatillo x 500 cm3 – caja x 6 u",
       "precio": 4000,
-      "img": "",
+      "img": "http://jarama.com.ar/imgs/imgcatalogo/linea_cosmetica/lava_coches/lava_coches_seco_500ml.jpg",
       "categoria": "LAVACOCHES EN SECO"
     }
   ],
@@ -52,21 +52,21 @@
       "codigo": 220,
       "descripcion": "Botella x 500 cm3 – caja x 12 u",
       "precio": 2950,
-      "img": "",
+      "img": "http://jarama.com.ar/imgs/imgcatalogo/linea_cosmetica/revitalizador/revigel_500ml.jpg",
       "categoria": "REVITALIZADOR DE GOMAS PARA AUTOS - REVICAUCHO"
     },
     {
       "codigo": 240,
       "descripcion": "Bidón x 5 litros – caja x 4 u",
       "precio": 14700,
-      "img": "",
+      "img": "http://jarama.com.ar/imgs/imgcatalogo/linea_cosmetica/revitalizador/revigel_5l.jpg",
       "categoria": "REVITALIZADOR DE GOMAS PARA AUTOS - REVICAUCHO"
     },
     {
       "codigo": 260,
       "descripcion": "Bidón x 20 litros",
       "precio": 58600,
-      "img": "",
+      "img": "http://jarama.com.ar/imgs/imgcatalogo/linea_cosmetica/revitalizador/revitalizador_20l.jpg",
       "categoria": "REVITALIZADOR DE GOMAS PARA AUTOS - REVICAUCHO"
     }
   ],
@@ -75,14 +75,14 @@
       "codigo": 221,
       "descripcion": "Botella x 500 cm3 – caja x 12 u",
       "precio": 3200,
-      "img": "",
+      "img": "http://jarama.com.ar/imgs/imgcatalogo/linea_cosmetica/revitalizador/revitalizador_500ml.jpg",
       "categoria": "REVITALIZADOR DE GOMAS PARA AUTOS - REVIGEL"
     },
     {
       "codigo": 241,
       "descripcion": "Bidón x 5 litros – caja x 4 u",
       "precio": 16400,
-      "img": "",
+      "img": "http://jarama.com.ar/imgs/imgcatalogo/linea_cosmetica/revitalizador/revitalizador_5l.jpg",
       "categoria": "REVITALIZADOR DE GOMAS PARA AUTOS - REVIGEL"
     }
   ],
@@ -91,28 +91,28 @@
       "codigo": 625,
       "descripcion": "Botella con gatillo x 500 cm3 – caja x 6 u",
       "precio": 3000,
-      "img": "",
+      "img": "http://jarama.com.ar/imgs/imgcatalogo/linea_cosmetica/parabrisas/parabrisas_rociador_500ml.jpg",
       "categoria": "LIMPIA PARABRISAS"
     },
     {
       "codigo": 620,
       "descripcion": "Botella x 500 cm3 – caja x 12 u",
       "precio": 2400,
-      "img": "",
+      "img": "http://jarama.com.ar/imgs/imgcatalogo/linea_cosmetica/parabrisas/parabrisas_500ml.jpg",
       "categoria": "LIMPIA PARABRISAS"
     },
     {
       "codigo": 640,
       "descripcion": "Bidón x 5 litros – caja x 4 u",
       "precio": 11600,
-      "img": "",
+      "img": "http://jarama.com.ar/imgs/imgcatalogo/linea_cosmetica/parabrisas/parabrisas_5l.jpg",
       "categoria": "LIMPIA PARABRISAS"
     },
     {
       "codigo": 660,
       "descripcion": "Bidón x 20 litros",
       "precio": 39600,
-      "img": "",
+      "img": "http://jarama.com.ar/imgs/imgcatalogo/linea_cosmetica/parabrisas/parabrisas_20l.jpg",
       "categoria": "LIMPIA PARABRISAS"
     }
   ],

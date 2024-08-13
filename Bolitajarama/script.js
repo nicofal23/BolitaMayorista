@@ -35,7 +35,7 @@ document.getElementById('login-button').addEventListener('click', function() {
 
                 document.getElementById('login-container').style.display = 'none';
                 document.getElementById('products-container').style.display = 'block';
-                document.getElementById('cart-icon-container').style.display = 'flex'; // Mostrar el ícono del carrito
+                document.getElementById('cart-icon-container').style.cssText = 'display: block !important;' // Mostrar el ícono del carrito
                 loadProducts();
             } else {
                 alert('Usuario o clave incorrectos.');
